@@ -1,4 +1,4 @@
-# 🙋‍ 2023.1 - Módulo Aplicação Web - Turma 9 - Banco Pan
+# 🙋‍ 2023.1 - Módulo Aplicação Web - Turma 7 - Natura
 
 ## :mag: O problema:
 
