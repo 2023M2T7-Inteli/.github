@@ -2,16 +2,16 @@
 
 ## :mag: O problema:
 
-...
+Dispor de uma solução simplificada e resiliente para coleta digital de dados dos produtores, que possuem limitação de acesso online.
 
 ## :dart: O objetivo:
 
-...
+Desenvolver uma solução WEB para engajamento de pequenos produtores Natura para coleta e processamento de dados.
 
 
 ## :jigsaw: O público-alvo:
 
-...
+Pequenos produtores / agricultores que colaboram com a natura.
 
 ## :computer: Aplicação Web:
 
